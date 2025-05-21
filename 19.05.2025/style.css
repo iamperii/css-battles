@@ -1,0 +1,28 @@
+.ctn {
+	padding: 0px 40px;
+	display: flex;
+	justify-content: space-between;
+	.b,
+	.t {
+		border-bottom-left-radius: 40px;
+		border-bottom-right-radius: 40px;
+	}
+}
+.b {
+	width: 80px;
+	height: 200px;
+	background-color: #4c455b;
+	border-bottom: 40px solid #d95f5b;
+}
+.t {
+	width: 80px;
+	height: 200px;
+	background-color: #d95f5b;
+	border-bottom: 40px solid #4c455b;
+	rotate: 180deg;
+	margin-top: 60px;
+}
+body {
+	margin: 0;
+	background-color: #bde4c1;
+}
