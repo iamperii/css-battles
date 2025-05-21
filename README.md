@@ -10,7 +10,8 @@ This repository contains my solutions to various challenges from [CSSBattle.dev]
 
 Each folder in this repository represents a separate CSS Battle challenge. The folders are named according to the battle date or target number for easy reference.
 
-`css-battle-solutions/
+```
+css-battle-solutions/
 ├── battle-01/
 │ ├── index.html
 │ ├── style.css
@@ -19,7 +20,8 @@ Each folder in this repository represents a separate CSS Battle challenge. The f
 │ ├── index.html
 │ ├── style.css
 │ └── preview.png
-├── ...`
+├── ...
+```
 
 - `index.html` contains the solution.
 - `preview.png` is an optional screenshot of the rendered output (can be used for comparison or visual reference).
