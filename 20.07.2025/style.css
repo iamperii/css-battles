@@ -1,0 +1,30 @@
+.c {
+	width: 15px;
+	height: 15px;
+	border-radius: 100%;
+	background-color: #ffffff;
+}
+.ct {
+	display: flex;
+	gap: 20px;
+}
+.t {
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	width: 100px;
+	height: 50px;
+	background-color: #48bf7d;
+	border-radius: 50px 50px 0 0;
+}
+.b {
+	width: 140px;
+	height: 40px;
+	border-radius: 40px;
+	background-color: #48bf7d;
+}
+body {
+	background-color: #fade8b;
+	place-items: center;
+	place-content: center;
+}
