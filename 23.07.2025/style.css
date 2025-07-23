@@ -1,0 +1,31 @@
+.f {
+	display: flex;
+	gap: 30px;
+	margin-bottom: 30px;
+}
+.a,
+.m {
+	width: 70px;
+}
+.a,
+.m,
+.b,
+.c,
+.d {
+	height: 30px;
+	background: #f2eaa8;
+}
+.b {
+	width: 50px;
+}
+.c {
+	width: 30px;
+}
+.d {
+	width: 10px;
+}
+body {
+	background: #c05f6a;
+	margin: 45px auto;
+	place-items: center;
+}
