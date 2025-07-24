@@ -1,0 +1,25 @@
+.p {
+	position: absolute;
+	top: 6px;
+	left: 5px;
+	width: 40px;
+	height: 40px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.b {
+	position: relative;
+	width: 50px;
+	height: 105px;
+	background: #3d2525;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+body,
+.p {
+	background: #328fc1;
+}
+body {
+	place-items: center;
+	place-content: center;
+}
