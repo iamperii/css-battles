@@ -1,0 +1,26 @@
+.r {
+	background: #d24444;
+	top: 80px;
+	left: 228px;
+}
+div {
+	position: absolute;
+	width: 73px;
+	border-radius: 20px;
+	height: 72px;
+}
+.s {
+	top: 152px;
+	left: 156px;
+}
+.f {
+	top: 60px;
+	left: 135px;
+}
+.b {
+	background: #556d7f;
+}
+* {
+	position: relative;
+	background: #fade8b;
+}
