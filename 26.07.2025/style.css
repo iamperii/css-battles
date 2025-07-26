@@ -1,0 +1,24 @@
+.f {
+	margin-top: 70px;
+	width: 200px;
+	height: 41px;
+	background: #5528a5;
+}
+.f,
+.s {
+	border-radius: 10px 10px 0px 0px;
+}
+.s {
+	width: 240px;
+	height: 40px;
+	background: #6855bf;
+}
+.t {
+	width: 280px;
+	height: 109px;
+	background: #9e8dec;
+	border-radius: 10px;
+}
+* {
+	place-items: center;
+}
